@@ -1,0 +1,5 @@
+Name:			D.Hariharan
+Designation:	Junior Software Trainee
+Working in:		BUSOFT
+Experience:		Fresher
+Skills:			Python,Web Development,SQL,Testing
